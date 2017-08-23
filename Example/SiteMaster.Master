@@ -1,0 +1,45 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SiteMaster.master.cs" Inherits="Example.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <link href="~\Css\Site.css" rel="stylesheet" />
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <ul>
+          <li>
+              <a href="users.aspx" <%= Page.AppRelativeVirtualPath.Contains("users") ? "class = \"active\"" : string.Empty %>>Kullanıcılar</a>
+          </li>
+          <li>
+              <a href="products.aspx" <%= Page.AppRelativeVirtualPath.Contains("products") ? "class = \"active\"" : string.Empty %>>Ürünler</a>
+          </li>
+          <li>
+              <a href="dispatching.aspx" <%= Page.AppRelativeVirtualPath.Contains("dispatching") ? "class = \"active\"" : string.Empty %> >Sevkiyat</a>
+          </li>
+          <li>
+              <a href="purchase.aspx" <%= Page.AppRelativeVirtualPath.Contains("purchase") ? "class = \"active\"" : string.Empty %>>Mal Kabul</a>
+          </li>
+          <li class="dropdown">
+            <a href="javascript:void(0)" class="dropbtn">Liste ve Raporlar</a>
+            <div class="dropdown-content">
+              <a href="lists.aspx">Listeler</a>
+              <a href="reports.aspx">Raporlar</a>
+            </div>
+          </li>
+          <li style="float:right"><a class="active" href="LogOut.aspx">ÇIKIŞ</a></li>
+            
+            
+        </ul>
+         <asp:Label runat="server" ID="lblUser" style="float:right" ></asp:Label>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+             
+        </asp:ContentPlaceHolder>
+
+    </form>
+</body>
+</html>

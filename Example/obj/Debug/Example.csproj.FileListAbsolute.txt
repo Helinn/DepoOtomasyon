@@ -1,0 +1,28 @@
+C:\Users\stajyer2\Desktop\projects\2013projects\Example\Example\bin\Example.dll.config
+C:\Users\stajyer2\Desktop\projects\2013projects\Example\Example\bin\Example.dll
+C:\Users\stajyer2\Desktop\projects\2013projects\Example\Example\bin\Example.pdb
+C:\Users\stajyer2\Desktop\projects\2013projects\Example\Example\obj\Debug\Example.csprojResolveAssemblyReference.cache
+C:\Users\stajyer2\Desktop\projects\2013projects\Example\Example\obj\Debug\Example.dll
+C:\Users\stajyer2\Desktop\projects\2013projects\Example\Example\obj\Debug\Example.pdb
+C:\Users\stajyer2\Desktop\projects\2013projects\Example\Example\bin\Data.dll
+C:\Users\stajyer2\Desktop\projects\2013projects\Example\Example\bin\Data.pdb
+C:\Users\stajyer2\Desktop\otomasyon son\Example\Example\bin\Example.dll.config
+C:\Users\stajyer2\Desktop\otomasyon son\Example\Example\bin\Example.dll
+C:\Users\stajyer2\Desktop\otomasyon son\Example\Example\bin\Example.pdb
+C:\Users\stajyer2\Desktop\otomasyon son\Example\Example\bin\Data.dll
+C:\Users\stajyer2\Desktop\otomasyon son\Example\Example\bin\Data.pdb
+C:\Users\stajyer2\Desktop\otomasyon son\Example\Example\obj\Debug\Example.csprojResolveAssemblyReference.cache
+C:\Users\stajyer2\Desktop\otomasyon son\Example\Example\obj\Debug\RdlCompile.cache
+C:\Users\stajyer2\Desktop\otomasyon son\Example\Example\obj\Debug\RdlCompile.compiled
+C:\Users\stajyer2\Desktop\otomasyon son\Example\Example\obj\Debug\Example.dll
+C:\Users\stajyer2\Desktop\otomasyon son\Example\Example\obj\Debug\Example.pdb
+C:\Users\stajyer2\Desktop\projects\otomasyon son\Example\Example\bin\Example.dll.config
+C:\Users\stajyer2\Desktop\projects\otomasyon son\Example\Example\bin\Example.dll
+C:\Users\stajyer2\Desktop\projects\otomasyon son\Example\Example\bin\Example.pdb
+C:\Users\stajyer2\Desktop\projects\otomasyon son\Example\Example\bin\Data.dll
+C:\Users\stajyer2\Desktop\projects\otomasyon son\Example\Example\bin\Data.pdb
+C:\Users\stajyer2\Desktop\projects\otomasyon son\Example\Example\obj\Debug\Example.csprojResolveAssemblyReference.cache
+C:\Users\stajyer2\Desktop\projects\otomasyon son\Example\Example\obj\Debug\RdlCompile.cache
+C:\Users\stajyer2\Desktop\projects\otomasyon son\Example\Example\obj\Debug\RdlCompile.compiled
+C:\Users\stajyer2\Desktop\projects\otomasyon son\Example\Example\obj\Debug\Example.dll
+C:\Users\stajyer2\Desktop\projects\otomasyon son\Example\Example\obj\Debug\Example.pdb

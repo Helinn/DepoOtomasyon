@@ -1,0 +1,120 @@
+﻿body {
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+    li a {
+        display: inline-block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+
+    li a, .dropbtn {
+        display: inline-block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+
+        li a:hover, .dropdown:hover .dropbtn {
+            background-color: black;
+        }
+
+    li.dropdown {
+        display: inline-block;
+    }
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #333;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+    .dropdown-content a {
+        color: white;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        text-align: left;
+    }
+
+        .dropdown-content a:hover {
+            background-color: green;
+        }
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+
+.button {
+    background-color: #555555;
+    border: none;
+    color: white;
+    padding: 12px 28px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.btn-login {
+
+    background-color: green;
+    border: none;
+    color: black;
+    border-radius: 4px;
+    text-align: center;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.hiddenText label {
+    display: none;
+}
+
+.TextBox {
+    columns: 10;
+}
+
+.container {
+    width: 500px;
+    height: 400px;
+    text-align: center;
+    background-color: grey;
+    box-shadow: rgb(128, 128, 128);
+    border-radius: 4px;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+
+    .container img {
+        width: 120px;
+        height: 120px;
+        margin-top: -60px;
+        margin-bottom: 30px;
+    }
