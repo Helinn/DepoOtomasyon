@@ -1,0 +1,2 @@
+# DepoOtomasyon
+Staj projesi
